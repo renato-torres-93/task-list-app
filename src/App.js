@@ -1,9 +1,9 @@
-import React from 'react'
+import AppRouter from './routes'
 
 function App() {
   return (
     <div>
-      <h1>TASK LIST</h1>
+      <AppRouter/>
     </div>
   );
 }
