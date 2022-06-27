@@ -2,9 +2,7 @@ import AppRouter from './routes'
 
 function App() {
   return (
-    <div>
-      <AppRouter/>
-    </div>
+    <AppRouter/>
   );
 }
 
